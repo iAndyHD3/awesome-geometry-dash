@@ -77,7 +77,7 @@
 - [DemonsInGarage](https://github.com/Alphatism/DemonsInGarage) adds the Demon Stat to the icon changing scene
 - [Editor Collab](https://github.com/altalk23/EditorCollab) - Live multiplayer editor collaboration tool
 - [EditorWaveform](https://github.com/cgytrus/EditorWaveform) - Shows the current song's waveform in the editor
-- [Every key jumps](https://github.com/matcool/small-gd-mods/) — Allows you to play gd with almost every key in your keyboard
+- [Every key jumps](https://github.com/matcool/small-gd-mods/) - Allows you to play gd with almost every key in your keyboard
 - [FadeMusicOnDeath](https://github.com/cgytrus/FadeMusicOnDeath) - Makes the music slow down when you die instead of just stopping
 - [Fix Effect Lines](https://github.com/matcool/small-gd-mods/) - Fixes trigger effect lines not showing up sometimes
 - [GD Share](https://github.com/HJfod/GDShare-mod) - Adds buttons to export / import levels.
@@ -98,7 +98,7 @@
 - [Minute Support](https://github.com/iAndyHD3/gd-mods) - Make the song offset label accept minute-like string
 - [RGB Color Input](https://github.com/matcool/small-gd-mods/) - Adds a widget to directly edit the R G and B values of a color channel
 - [Remove Endscreen](https://github.com/iAndyHD3/gd-mods) - Removes the endscreen when finishing a level.
-- [Run Info](https://github.com/matcool/small-gd-mods/) Adds an overlay which shows info for practice mode and start pos attempts
+- [Run Info](https://github.com/matcool/small-gd-mods/) - Adds an overlay which shows info for practice mode and start pos attempts
 - [Scene Switcher](https://cdn.discordapp.com/attachments/837026406282035300/898684171503939584/SceneSwitcher-v1.1.dll) - Lets you switch between scenes quickly by holding Caps Lock
 - [ScreenSelector](https://github.com/cgytrus/ScreenSelector) - Put GD on a different monitor and adds borderless fullscreen
 - [Scroll Any Input](https://cdn.discordapp.com/attachments/879435504653840424/879435852630085651/ScrollAnyInput-v1.1.dll) - Scroll on any numerical input to increase/decrease it
