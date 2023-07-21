@@ -1,4 +1,9 @@
 
 - Mods need to work, a release must be avaialble for users to use said mod.
+- One line spacing between a list and the title
 
-- Besides contents lists must be ordered alphabetically. Use [slmd](https://github.com/lqez/slmd) for this. You need to temporarily remove the mod menu table since it can't read emojis
+Besides the table of contents, lists must be ordered alphabetically, use the provided `order.py`.
+```
+pip install slmd
+python order.py
+```
