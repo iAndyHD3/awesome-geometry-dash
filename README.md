@@ -103,8 +103,7 @@
 - [ScreenSelector](https://github.com/cgytrus/ScreenSelector) - Put GD on a different monitor and adds borderless fullscreen
 - [Scroll Any Input](https://cdn.discordapp.com/attachments/879435504653840424/879435852630085651/ScrollAnyInput-v1.1.dll) - Scroll on any numerical input to increase/decrease it
 - [Smooth Particles](https://github.com/cgytrus/SmoothParticles) - Interpolates particle spawn positions between frames
-- [Song Search](https://github.com/matcool/small-gd-mods) - Adds a search bar to the saved songs menu.
-- [Song search](https://github.com/matcool/small-gd-mods/) - Allows you to search through your saved songs in the song select dialog
+- [Song Search](https://github.com/matcool/small-gd-mods/) - Allows you to search through your saved songs in the song select dialog
 - [SoundEffects](SoundEffects) - Adds sound effects to gameplay events
 - [StartPos Fix](https://github.com/FigmentBoy/StartPos-Fix) - Fixes lag with start positions/checkpoints late in the level
 - [Sum Attempts](https://github.com/matcool/small-gd-mods/) - Adds a button to the levels screen that adds up all the attempts in that folder
