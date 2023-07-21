@@ -46,7 +46,7 @@
 - [UIBuilder](https://github.com/camila314/uibuilder) - C++ Header-only UI Builder class for GD
 - [VideoPlayer](https://github.com/FigmentBoy/VideoPlayer) - An API for playing mpeg (.mpg) videos within the Geode SDK
 - [gd-imgui-cocos
-](https://github.com/matcool/gd-imgui-cocos) imgui in gd via a cocos node (Geode)
+](https://github.com/matcool/gd-imgui-cocos) - imgui in gd via a cocos node (Geode)
 - [gd.py](https://github.com/nekitdev/gd.py) - An API wrapper for GD written in Python
 - [jdash](https://github.com/Alex1304/jdash) - GD API for Java developers
 - [mat-dash](https://github.com/matcool/mat-dash) - C++ library to wrap hooks and calling conventions
