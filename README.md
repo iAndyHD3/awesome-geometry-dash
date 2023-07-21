@@ -41,10 +41,12 @@
 
 - [Better Text Areas](https://gist.github.com/SMJSGaming/4c640b97d359cbaaa6844f2942065811) - Makes text areas more bearable to work
 - [Clip](https://gist.github.com/HJfod/ba8e6b637874eaee1305f5d079e61a3a) - CCClippingNode but uses the content size instead for maximum ease-of-use
-- [Dash4j](https://github.com/Alphatism/Dash4j) Java library to interact with GD
+- [Dash4j](https://github.com/Alphatism/Dash4j) - Java library to interact with GD
 - [GD Custom Object](https://github.com/camila314/gd-custom-object) - An example of a custom object using Geode.
 - [UIBuilder](https://github.com/camila314/uibuilder) - C++ Header-only UI Builder class for GD
 - [VideoPlayer](https://github.com/FigmentBoy/VideoPlayer) - An API for playing mpeg (.mpg) videos within the Geode SDK
+- [gd-imgui-cocos
+](https://github.com/matcool/gd-imgui-cocos) imgui in gd via a cocos node (Geode)
 - [gd.py](https://github.com/nekitdev/gd.py) - An API wrapper for GD written in Python
 - [jdash](https://github.com/Alex1304/jdash) - GD API for Java developers
 - [mat-dash](https://github.com/matcool/mat-dash) - C++ library to wrap hooks and calling conventions
