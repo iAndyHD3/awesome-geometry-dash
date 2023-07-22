@@ -176,8 +176,18 @@
 
 ## Texture Packs
 
-- One
-- Two
+| Texture Pack | Icons | Menus | PC UHD | PC Medium | Android |
+| :--: | :--: | :--: | :--: | :--: | :--: |
+| [SSOH V4](https://youtu.be/1SydJK6tl4U "SSOH V4") | ✅ | ✅ | ✅ | ❌ | ❌ |
+| [SSOH V3](https://youtu.be/wl0XdagUCcw "SSOH V3") | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Futura UI](https://youtu.be/0wRT8AI4v0c "Futura UI") | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Diamond Vortex](https://youtu.be/CYbL8V-5Kb0 "Diamond Vortex") | ✅ | ❌ | ✅ | ✅ | ✅ |
+| [Diamond Pack](https://youtu.be/FIKOHD9C1kE "Diamond Pack") | ❌ | ✅ | ✅ | ✅ | ✅ |
+| [Technical 75K](https://youtu.be/L3YZYJwdRU0 "Technical 75K") | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Cursed V2](https://youtu.be/uZ4CEk-m9LY "Cursed V2") | ✅ | ❌ | ✅ | ✅ | ❌ |
+| [Crafting V7](https://youtu.be/5tYEj58Bq9w "Crafting V7") | ✅ | ❌ | ✅ | ✅ | ✅ |
+| [Dorami](https://youtu.be/S9JxXfT7zz4 "Dorami") | ✅ | ✅ | ✅ | ✅ | ✅ |
+| [Riot Neon/Cyber](https://youtu.be/gT0_2X-HLeE "Riot Neon/Cyber") | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 ## Discord Servers
 
