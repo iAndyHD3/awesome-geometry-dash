@@ -177,7 +177,6 @@
 ## Texture Packs
 
 - One
-- Two
 
 ## Discord Servers
 
