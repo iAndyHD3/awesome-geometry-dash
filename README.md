@@ -5,7 +5,7 @@
 >   <img alt="Note" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/note.svg">
 > </picture><br>
 >
-> `Geometry Dash` is abbreviated as `GD` everyhwere
+> `Geometry Dash` is abbreviated as `GD` everywhere.
 
 # Contents
 - [Mod Menus](#mod-menus)
@@ -180,14 +180,14 @@
 
 ## Discord Servers
 
-- [COLLAR](https://t.co/R7cPLqzzob) - GD Fanmades
-- [GD /r/Place](https://discord.gg/hZj5evMRZr)
-- [GD Creator School](https://discord.gg/gdlevels)
-- [GD Creators](https://discord.gg/EDhpzkNuRK)
-- [GD Leaderboards](https://discord.gg/j8MQ5MgVyN)
-- [GD Modding](https://discord.gg/K9Kuh3hzTC)
-- [GD Programming](https://discord.gg/jEwtDBK)
-- [Geometry Dash](https://discord.gg/geometrydash)
+![COLLAR](https://invidget.switchblade.xyz/9GX4Dkb)
+![GD r/place](https://invidget.switchblade.xyz/hZj5evMRZr)
+![GD Creator School](https://invidget.switchblade.xyz/gdlevels)
+![GD Creators](https://invidget.switchblade.xyz/EDhpzkNuRK)
+![GD Leaderboards](https://invidget.switchblade.xyz/j8MQ5MgVyN)
+![GD Modding](https://invidget.switchblade.xyz/K9Kuh3hzTC)
+![GD Programming](https://invidget.switchblade.xyz/jEwtDBK)
+![Geometry Dash](https://invidget.switchblade.xyz/geometrydash)
 
 ## Other
 
