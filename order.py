@@ -30,9 +30,6 @@ def main(filename):
                 break
         
         content_after_contents = '\n'.join(lines[contents_table_index + 1:])
-        with open("test.txt", 'w', encoding="utf-8") as file:
-            file.write(content_after_contents)
-
         sorted_content_after_contents = sort_string(content_after_contents, case_sensitive=False)
 
         # Insert the sorted content back after the "contents" table

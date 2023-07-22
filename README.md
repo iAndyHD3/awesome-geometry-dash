@@ -8,21 +8,18 @@
 > `Geometry Dash` is abbreviated as `GD` everyhwere
 
 # Contents
-  - [Programming](#programming)
-    - [Mod Menus](#mod-menus)
-    - [Modding Frameworks](#modding-frameworks)
-    - [Libraries](#libraries)
-    - [Mods](#mods)
-    - [Bots](#bots)
-    - [Tools](#tools)
-    - [Other](#other)
-  - [Websites](#websites)
-  - [Texture Packs](#texture-packs)
-  - [Discord Servers](#discord-servers)
-
-## Programming
-
-### Mod Menus
+- [Mod Menus](#mod-menus)
+- [Modding Frameworks](#modding-frameworks)
+- [Libraries](#libraries)
+- [Mods](#mods)
+- [Bots](#bots)
+- [Websites](#websites)
+- [Tools](#tools)
+- [Texture Packs](#texture-packs)
+- [Discord Servers](#discord-servers)
+- [Other](#other)
+  
+## Mod Menus
 
 | Mod Menu                                                               | Platform | Free | In-Game UI | OSS | Discord                               |
 |:----------------------------------------------------------------------:|:--------:|:----:|:----------:|:---:|:-------------------------------------:|
@@ -35,11 +32,11 @@
 | [Crystal Client](https://github.com/ninXout/Crystal-Client)            | Mac      | ✅    | ✅          | ✅   | [Join](https://discord.gg/xV5dekWHTd) |
 | [iCreate Pro](https://icreate.pro/)                                    | iOS      | ❌    | ✅          | ❌   | [Join](https://discord.gg/CqEC26gJEX) |
 
-### Modding Frameworks
+## Modding Frameworks
 
 - [Geode](https://geode-sdk.org/) - GD mod loader and modding SDK with a modern approach towards mod development.
 
-### Libraries
+## Libraries
 
 - [Better Text Areas](https://gist.github.com/SMJSGaming/4c640b97d359cbaaa6844f2942065811) - Makes text areas more bearable to work
 - [Clip](https://gist.github.com/HJfod/ba8e6b637874eaee1305f5d079e61a3a) - CCClippingNode but uses the content size instead for maximum ease-of-use
@@ -52,11 +49,11 @@
 - [gd.py](https://github.com/nekitdev/gd.py) - An API wrapper for GD written in Python
 - [jdash](https://github.com/Alex1304/jdash) - GD API for Java developers
 - [mat-dash](https://github.com/matcool/mat-dash) - C++ library to wrap hooks and calling conventions
+- [megahack-api](https://github.com/zaphir-code/megahack-api) - API functions of Megahack v7
 - [UIBuilder](https://github.com/camila314/uibuilder) - C++ Header-only UI Builder class for GD
 - [VideoPlayer](https://github.com/FigmentBoy/VideoPlayer) - An API for playing mpeg (.mpg) videos within the Geode SDK
-- [megahack-api](https://github.com/zaphir-code/megahack-api) - API functions of Megahack v7
 
-### Mods
+## Mods
 
 > <picture>
 >   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/note.svg">
@@ -122,7 +119,7 @@
 - [uwuifier](https://github.com/cgytrus/uwuifier) - Makes your game very uwu
 - [VanillaIceCream](https://github.com/Alphatism/VanillaIceCream) - Remove all UI changes by MegaHack v7
 
-### Bots
+## Bots
 
 | Bot | Free | Internal Renderer | OSS | Discord |
 | :--: | :--: | :--: | :--: | :--: |
@@ -134,32 +131,12 @@
 | [GD TASBot](https://discord.gg/rum6gxDaTj# "GD TASBot") | ✅ | ✅ | ❌ | [Join](https://discord.gg/rum6gxDaTj# "Join") |
 | [RBot](https://discord.gg/V6XN6HZWuY "RBot") | ❌ | ✅ | ❌ | [Join](https://discord.gg/V6XN6HZWuY "Join") |
 
-### Tools
-
-- [GD Guidelines](https://github.com/LoL123413/GD-Guidelines) - Tool that adds guidelines to your level based on BPM.
-- [GD Pixel Art](https://github.com/GDColon/GD-Pixel-Art) - A quick program that imports optimized pixel art into GD
-- [GD Randomizer](https://github.com/GDColon/GD-Randomizer) - Randomizes GD textures
-- [GD Savefile Fix](https://github.com/WEGFan/Geometry-Dash-Savefile-Fix) - Fixes GD savefiles if corrupted for unknown reasons.
-- [GD XOR Tool](https://gdcolon.com/xor)
-- [MC2GD](https://github.com/GDColon/MC2GD) - A minecraft datapack + node.js program that imports minecraft worlds into GD
-- [SPWN](https://github.com/Spu7Nix/SPWN-language) - Language for GD triggers
-
-### Other
-
-- [GD 1.0](https://github.com/Wyliemaster/Geometry-Dash-1.0) - Basic decompilation of GD 1.0
-- [GD Decompiled](https://github.com/Wyliemaster/GD-Decompiled) - An attempt to get the source code for GD 2.11
-- [gd decomps](https://github.com/matcool/gd-decomps) - GD decompiled functions as Geode mods
-- [gdclone](https://github.com/opstic/gdclone) - Alternative GD client built using Rust and Bevy
-- [GMDprivateServer](https://github.com/Cvolton/GMDprivateServer) - GD Server Emulator
-- [OpenGD](https://github.com/Open-GD/OpenGD) - Open source implementation of GD powered by a fork of cocos2dx 4.0.
-- [RealistikGDPS](https://github.com/RealistikDash/RealistikGDPS) - Python-based GDPS backend
-- [Ydis](https://github.com/exyl-exe/ydis) - Software that records attempts spent on a level and can display statistics about it.
-
 ## Websites
 
 - [Dashword](https://www.dashword.net/) - News, guides, reviews, opinions, lists and all kinds of stories
 - [Demonlist](https://pointercrate.com/demonlist/) - Extreme demons ranked by difficulty based on player opinions
 - [Extreme Demon Roulette](https://matcool.github.io/extreme-demon-roulette/) - Reach a minimum percent that increases every level through a random list of extreme demons
+- [GD Assistance](https://meinmind.me/en/gda/home) - Support FAQs and creator-based help all in one place
 - [GD Comment Generator](https://gdcolon.com/gdcomment) - Generate convincing looking GD comments with tons of customizable settings
 - [GD Font Generator](https://gdcolon.com/gdfont) - Generate custom GD logos and messages using fonts from the game
 - [GD Forums](https://www.gdforums.com/) - Community website
@@ -173,6 +150,18 @@
 - [Macro Converter](https://matcool.github.io/gd-macro-converter/) - Convert bot macros formats
 - [Online Icon Kit](https://gdbrowser.com/iconkit/) - Advanced online icon kit that allows you to save icons as PNG's and more
 - [Song File Hub](https://songfilehub.com/) - Collection of NONG songs used by rated levels
+
+## Tools
+
+- [GD Guidelines](https://github.com/LoL123413/GD-Guidelines) - Tool that adds guidelines to your level based on BPM.
+- [GD Pixel Art](https://github.com/GDColon/GD-Pixel-Art) - A quick program that imports optimized pixel art into GD
+- [GD Randomizer](https://github.com/GDColon/GD-Randomizer) - Randomizes GD textures
+- [GD Savefile Fix](https://github.com/WEGFan/Geometry-Dash-Savefile-Fix) - Fixes GD savefiles if corrupted for unknown reasons.
+- [GD XOR Tool](https://gdcolon.com/xor)
+- [MC2GD](https://github.com/GDColon/MC2GD) - A minecraft datapack + node.js program that imports minecraft worlds into GD
+- [SPWN](https://github.com/Spu7Nix/SPWN-language) - Language for GD triggers
+- [Texture Splitter](https://youtu.be/pYQgIyNhow8) - Native windows software to split and merge GD spritesheets 
+- [Ydis](https://github.com/exyl-exe/ydis) - Software that records attempts spent on a level and can display statistics about it.
 
 ## Texture Packs
 
@@ -191,7 +180,21 @@
 
 ## Discord Servers
 
+- [COLLAR](https://t.co/R7cPLqzzob) - GD Fanmades
 - [GD /r/Place](https://discord.gg/hZj5evMRZr)
-- [Geometry Dash](https://discord.gg/geometrydash)
 - [GD Creator School](https://discord.gg/gdlevels)
+- [GD Creators](https://discord.gg/EDhpzkNuRK)
+- [GD Leaderboards](https://discord.gg/j8MQ5MgVyN)
+- [GD Modding](https://discord.gg/K9Kuh3hzTC)
 - [GD Programming](https://discord.gg/jEwtDBK)
+- [Geometry Dash](https://discord.gg/geometrydash)
+
+## Other
+
+- [GD 1.0](https://github.com/Wyliemaster/Geometry-Dash-1.0) - Basic decompilation of GD 1.0
+- [GD Decompiled](https://github.com/Wyliemaster/GD-Decompiled) - An attempt to get the source code for GD 2.11
+- [gd decomps](https://github.com/matcool/gd-decomps) - GD decompiled functions as Geode mods
+- [gdclone](https://github.com/opstic/gdclone) - Alternative GD client built using Rust and Bevy
+- [GMDprivateServer](https://github.com/Cvolton/GMDprivateServer) - GD Server Emulator
+- [OpenGD](https://github.com/Open-GD/OpenGD) - Open source implementation of GD powered by a fork of cocos2dx 4.0.
+- [RealistikGDPS](https://github.com/RealistikDash/RealistikGDPS) - Python-based GDPS backend
