@@ -127,7 +127,7 @@
 | Bot | Free | Internal Renderer | OSS | Discord |
 | :--: | :--: | :--: | :--: | :--: |
 | [ReplayBot](https://github.com/matcool/ReplayBot "ReplayBot") | ✅ | ✅ | ✅ | ❌ |
-| [GatoBot](https://github.com/matcool/ReplayBot "GatoBot") | ✅ | ✅ | ✅ | ❌ |
+| [GatoBot](https://github.com/CattoDev/GatoBot "GatoBot") | ✅ | ✅ | ✅ | ❌ |
 | [Mega Hack Replay](https://absolllute.com/store/view_mega_hack_pro "Mega Hack Replay") | ❌ | ✅ | ❌ | [Join](https://discord.gg/agMrcTkm9M "Join") |
 | [zBot](https://zbot.figmentcoding.me/ "zBot") | ❌ | ❌ | ❌ | [Join](https://discord.gg/vXUpcKYNkB "Join") |
 | [Echo](https://discord.gg/cUhfJEjuRJ "Echo") | ✅ | ✅ | ❌ | [Join](https://discord.gg/cUhfJEjuRJ "Join") |
