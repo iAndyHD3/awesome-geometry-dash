@@ -24,16 +24,16 @@
 
 ### Mod Menus
 
-| Mod Menu         | Platform | Free | Game UI | OSS |
-|------------------|----------|------|---------|-----|
-| [GD Mega Overlay](https://github.com/maxnut/GDMegaOverlay)  | Windows  | ✅    | ✅       | ✅   |
-| [GDHM](https://youtu.be/o1SfCT0Vrvg)             | Windows  | ✅    | ✅       | ❌   |
-| [Mega Hack v5](https://youtu.be/zJ-s7lvD1j4)    | Windows  | ✅    | ❌       | ✅   |
-| [Mega Hack v7](https://absolllute.com/store/view_mega_hack_pro)    | Windows  | ❌    | ✅       | ❌   |
-| [IAD Mod Menu](https://youtu.be/YNF_wk7uMuA)    | Android  | ✅    | ✅       | ❌   |
-| [Mega Hack Mobile](https://absolllute.com/store/view_mega_hack_mobile) | Android  | ❌    | ✅       | ❌   |
-| [Crystal Client](https://github.com/ninXout/Crystal-Client)   | Mac      | ✅    | ✅       | ✅   |
-| [iCreate Pro](https://icreate.pro/)  | iOS  | ❌    | ✅       | ❌   |
+| Mod Menu                                                               | Platform | Free | In-Game UI | OSS | Discord                               |
+|:----------------------------------------------------------------------:|:--------:|:----:|:----------:|:---:|:-------------------------------------:|
+| [GD Mega Overlay](https://github.com/maxnut/GDMegaOverlay)             | Windows  | ✅    | ✅          | ✅   | [Join](https://discord.gg/nbDjEg7SSU) |
+| [GDHM](https://youtu.be/o1SfCT0Vrvg)                                   | Windows  | ✅    | ✅          | ❌   | [Join](https://discord.gg/QSBD6XpMAD) |
+| [Mega Hack v5](https://youtu.be/zJ-s7lvD1j4)                           | Windows  | ✅    | ❌          | ✅   | ❌                                     |
+| [Mega Hack v7](https://absolllute.com/store/view_mega_hack_pro)        | Windows  | ❌    | ✅          | ❌   | [Join](https://discord.gg/agMrcTkm9M) |
+| [IAD Mod Menu](https://youtu.be/YNF_wk7uMuA)                           | Android  | ✅    | ✅          | ❌   | [Join](https://discord.gg/mb4KcDFnpq) |
+| [Mega Hack Mobile](https://absolllute.com/store/view_mega_hack_mobile) | Android  | ❌    | ✅          | ❌   | [Join](https://discord.gg/agMrcTkm9M) |
+| [Crystal Client](https://github.com/ninXout/Crystal-Client)            | Mac      | ✅    | ✅          | ✅   | [Join](https://discord.gg/xV5dekWHTd) |
+| [iCreate Pro](https://icreate.pro/)                                    | iOS      | ❌    | ✅          | ❌   | [Join](https://discord.gg/CqEC26gJEX) |
 
 ### Modding Frameworks
 
@@ -54,6 +54,7 @@
 - [mat-dash](https://github.com/matcool/mat-dash) - C++ library to wrap hooks and calling conventions
 - [UIBuilder](https://github.com/camila314/uibuilder) - C++ Header-only UI Builder class for GD
 - [VideoPlayer](https://github.com/FigmentBoy/VideoPlayer) - An API for playing mpeg (.mpg) videos within the Geode SDK
+- [megahack-api](https://github.com/zaphir-code/megahack-api) - API functions of Megahack v7
 
 ### Mods
 
@@ -123,19 +124,15 @@
 
 ### Bots
 
-#### Free
-
-- [Echo](https://discord.com/invite/Ye3wSQBrxZ) - One of the most accurate free non-watermark bots, has an autoclicker, etc
-- [GatoBot](https://github.com/CattoDev/GatoBot) - Physics-based bot with an internal renderer.
-- [ReplayBot](https://github.com/matcool/ReplayBot) - Replay bot
-- [Rush](https://discord.gg/wtgHDpTnMS) - Simpler version of echo that also has the option to use physics change
-
-#### Paid
-
-- [Mega Hack Replay](https://absolllute.com/) - Comes integrated with Mega Hack, has a unique internal recorder and very accurate.
-- [RBot](https://discord.gg/zgAXykk3Uq) - Considered to be 100% accurate, uses Physics Change 
-- [TASBot](https://discord.com/invite/HMavzxs9je) - Considered one of the most accurate, paid version removes the watermark.
-- [zBot](https://zbot.figmentcoding.me/) - One of the early accurate bots.
+| Bot | Free | Internal Renderer | OSS | Discord |
+| :--: | :--: | :--: | :--: | :--: |
+| [ReplayBot](https://github.com/matcool/ReplayBot "ReplayBot") | ✅ | ✅ | ✅ | ❌ |
+| [GatoBot](https://github.com/matcool/ReplayBot "GatoBot") | ✅ | ✅ | ✅ | ❌ |
+| [Mega Hack Replay](https://absolllute.com/store/view_mega_hack_pro "Mega Hack Replay") | ❌ | ✅ | ❌ | [Join](https://discord.gg/agMrcTkm9M "Join") |
+| [zBot](https://zbot.figmentcoding.me/ "zBot") | ❌ | ❌ | ❌ | [Join](https://discord.gg/vXUpcKYNkB "Join") |
+| [Echo](https://discord.gg/cUhfJEjuRJ "Echo") | ✅ | ✅ | ❌ | [Join](https://discord.gg/cUhfJEjuRJ "Join") |
+| [GD TASBot](https://discord.gg/rum6gxDaTj# "GD TASBot") | ✅ | ✅ | ❌ | [Join](https://discord.gg/rum6gxDaTj# "Join") |
+| [RBot](https://discord.gg/V6XN6HZWuY "RBot") | ❌ | ✅ | ❌ | [Join](https://discord.gg/V6XN6HZWuY "Join") |
 
 ### Tools
 
@@ -175,6 +172,7 @@
 - [Impossible Levels List](https://www.impossible-list.com/) - Impossible levels ranked by difficulty
 - [Macro Converter](https://matcool.github.io/gd-macro-converter/) - Convert bot macros formats
 - [Online Icon Kit](https://gdbrowser.com/iconkit/) - Advanced online icon kit that allows you to save icons as PNG's and more
+- [Song File Hub](https://songfilehub.com/) - Collection of NONG songs used by rated levels
 
 ## Texture Packs
 
@@ -183,5 +181,7 @@
 
 ## Discord Servers
 
-- [Geometry Dash /r/Place](https://discord.gg/hZj5evMRZr)
-- [Geometry Dash](https://discord.gg/geometrydash) - Official GD discord server
+- [GD /r/Place](https://discord.gg/hZj5evMRZr)
+- [Geometry Dash](https://discord.gg/geometrydash)
+- [GD Creator School](https://discord.gg/gdlevels)
+- [GD Programming](https://discord.gg/jEwtDBK)
