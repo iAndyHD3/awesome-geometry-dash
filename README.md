@@ -103,6 +103,7 @@
 - [Menu shaders](https://github.com/matcool/small-gd-mods/) - Replaces the background of the main menu with a customizable shader
 - [Minute Support](https://github.com/iAndyHD3/gd-mods) - Make the song offset label accept minute-like string
 - [nongd](https://github.com/Fleeym/nongd) - NONG manager written using Geode
+- [Platformer Mode](https://github.com/Decoder0007/PlatformerMode) - Platformer Mode mod for 2.1
 - [Remove Endscreen](https://github.com/iAndyHD3/gd-mods) - Removes the endscreen when finishing a level.
 - [RGB Color Input](https://github.com/matcool/small-gd-mods/) - Adds a widget to directly edit the R G and B values of a color channel
 - [Run Info](https://github.com/matcool/small-gd-mods/) - Adds an overlay which shows info for practice mode and start pos attempts
@@ -130,6 +131,7 @@
 | [Echo](https://discord.gg/cUhfJEjuRJ "Echo") | ✅ | ✅ | ❌ | [Join](https://discord.gg/cUhfJEjuRJ "Join") |
 | [GD TASBot](https://discord.gg/rum6gxDaTj# "GD TASBot") | ✅ | ✅ | ❌ | [Join](https://discord.gg/rum6gxDaTj# "Join") |
 | [RBot](https://discord.gg/V6XN6HZWuY "RBot") | ❌ | ✅ | ❌ | [Join](https://discord.gg/V6XN6HZWuY "Join") |
+| [PosBot](https://github.com/Decoder0007/PosBot) | ✅ | | ❌ | | ✅ | | ❌ |
 
 ## Websites
 
