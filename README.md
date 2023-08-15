@@ -109,6 +109,7 @@
 - [Scene Switcher](https://cdn.discordapp.com/attachments/837026406282035300/898684171503939584/SceneSwitcher-v1.1.dll) - Lets you switch between scenes quickly by holding Caps Lock
 - [ScreenSelector](https://github.com/cgytrus/ScreenSelector) - Put GD on a different monitor and adds borderless fullscreen
 - [Scroll Any Input](https://cdn.discordapp.com/attachments/879435504653840424/879435852630085651/ScrollAnyInput-v1.1.dll) - Scroll on any numerical input to increase/decrease it
+- [SeparateDualIcons](https://github.com/Alphatism/SeparateDualIcons) - Separates the dual icons
 - [Smooth Particles](https://github.com/cgytrus/SmoothParticles) - Interpolates particle spawn positions between frames
 - [Song Search](https://github.com/matcool/small-gd-mods/) - Allows you to search through your saved songs in the song select dialog
 - [SoundEffects](SoundEffects) - Adds sound effects to gameplay events
@@ -144,6 +145,7 @@
 - [GD Save Explorer](https://gdcolon.com/gdsave) - View detailed stats and data stord in your GD Save file
 - [GD SpriteSheet Splitter](https://gdcolon.com/gdsplitter) - Split and merge GD spritesheets
 - [GDBrowser](https://gdbrowser.com/) - An online GD level browser with in-depth level analysis
+- [GDDLader](https://gdladder.com/) - Split demons into finer 'tiers' so as to give a better reference for players on which demons are easier or harder than the official difficulty in-game.
 - [GDDP](https://gddp.pro/) - Improve in Geometry Dash by ordering levels into different tiers by difficulty
 - [GDPS Hub](https://gdpshub.com/) - Explore, publish and share GDPS's
 - [Impossible Levels List](https://www.impossible-list.com/) - Impossible levels ranked by difficulty
