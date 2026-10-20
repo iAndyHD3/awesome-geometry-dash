@@ -149,6 +149,7 @@
 - [GD Font Generator](https://gdcolon.com/gdfont) - Generate custom GD logos and messages using fonts from the game
 - [GD Forums](https://www.gdforums.com/) - Community website
 - [GD History](https://history.geometrydash.eu/) - Biggest GD archive to date with 2/3 levels indexed and preserved. 
+- [GD Practice Planner](https://geometrydashupdate.com/practice-planner/) - Budget complete practice attempts from your own playing and retry/review times
 - [GD Save Explorer](https://gdcolon.com/gdsave) - View detailed stats and data stord in your GD Save file
 - [GD SpriteSheet Splitter](https://gdcolon.com/gdsplitter) - Split and merge GD spritesheets
 - [GDBrowser](https://gdbrowser.com/) - An online GD level browser with in-depth level analysis
